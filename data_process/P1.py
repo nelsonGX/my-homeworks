@@ -1,0 +1,1 @@
+print("\nYour final score is: "+str((int(input("Please input Homework score: "))*3+int(input("Please input Midterm Exam score: "))*3+int(input("Please input Final Exam score: "))*4)/10))
