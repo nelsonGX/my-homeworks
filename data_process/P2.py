@@ -1,0 +1,1 @@
+print(f"The middle one is {str((sorted([float(x) for x in input("Please input 3 numbers (sept by comma): ").split(",")])[1])).replace(".0","")}.")

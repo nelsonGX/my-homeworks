@@ -1,0 +1,1 @@
+x,y=int(input("Enter number x: ")),int(input("Enter number y: "));print(x/([eval(x) for x in ["print(\"Your Y is 0!!!!\")", "exit()"]] if y == 0 else y))
