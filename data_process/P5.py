@@ -1,0 +1,1 @@
+import datetime;a=[int(x) for x in input("Please input the date (Y,M,D): ").split(",")];print(datetime.date(a[0],a[1],a[2]).weekday()+1)
